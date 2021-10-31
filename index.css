@@ -1,0 +1,20 @@
+.headCenter{
+    text-align: center;
+    display: inline-block;
+    text-decoration: none !important;
+    margin:0 auto;
+}
+.container{
+    width: 100%;
+    text-align: center;
+  }
+  li{
+      list-style-position: inside;
+  }
+
+  .h3Color{
+    color:brown;
+  }
+  body{
+      background-color: wheat;
+  }
